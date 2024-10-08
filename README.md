@@ -36,8 +36,3 @@ The repository includes the following topics:
 - Stacks
 - Strings
 - Trees
-
-## Repository Structure
-
-The repository is organized as follows:
-
